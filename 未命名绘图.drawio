@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T08:20:37.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="U57d_RdHu-PAml-dGDxr" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T08:26:00.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="xoC8eFv8Bo-WefYkIdSM" version="21.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1105" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,9 +46,6 @@
         <mxCell id="q1-tNbCSSyaoMxbJ7HrU-36" value="" style="rounded=1;dashed=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90.13" y="640" width="650" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q1-tNbCSSyaoMxbJ7HrU-44" value="Preferential Flow &#xa;Image Preprocessing" style="rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="333" y="250" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="q1-tNbCSSyaoMxbJ7HrU-51" value="MIoU" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="113.14" y="655" width="90" height="30" as="geometry" />
         </mxCell>
@@ -77,28 +74,19 @@
           <mxGeometry x="323.51" y="720" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kseDfcwPOJyHAZPvvYM-0" value="Collecting Preferential Flow &#xa;Image " style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="334" y="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="332.99" y="50" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKk8t3Ctntm0LeSIzIoW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6kseDfcwPOJyHAZPvvYM-1" target="iKk8t3Ctntm0LeSIzIoW-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6kseDfcwPOJyHAZPvvYM-1" value="" style="rounded=1;dashed=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="238" y="170" width="350" height="60" as="geometry" />
+          <mxGeometry x="237.99" y="140" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kseDfcwPOJyHAZPvvYM-2" value="Cinnamon Soil" style="rounded=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="262.01" y="185" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="155" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6kseDfcwPOJyHAZPvvYM-3" value="Chernozem&#xa;Soil" style="rounded=1;fillColor=#330000;fontColor=#ffffff;strokeColor=#432D57;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450.88" y="185" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6kseDfcwPOJyHAZPvvYM-6" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6kseDfcwPOJyHAZPvvYM-1" target="q1-tNbCSSyaoMxbJ7HrU-44" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="442.01" y="380" as="sourcePoint" />
-            <mxPoint x="492.01" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v34KmnY0Qmr2dm89Lqb1-1" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q1-tNbCSSyaoMxbJ7HrU-44" target="q1-tNbCSSyaoMxbJ7HrU-0" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="392.01" y="380" as="sourcePoint" />
-            <mxPoint x="442.01" y="330" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="450" y="155" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v34KmnY0Qmr2dm89Lqb1-2" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6kseDfcwPOJyHAZPvvYM-0" target="6kseDfcwPOJyHAZPvvYM-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,6 +112,14 @@
         </mxCell>
         <mxCell id="iKk8t3Ctntm0LeSIzIoW-14" value="Preferential Flow&#xa;Image Dataset" style="rounded=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320.5" y="400" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKk8t3Ctntm0LeSIzIoW-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iKk8t3Ctntm0LeSIzIoW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.0000000000002" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKk8t3Ctntm0LeSIzIoW-24" value="Collecting Preferential Flow &#xa;Image " style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.99" y="220" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
